@@ -1,3 +1,8 @@
-theme: online-cv
-title: 💻✒️📄🌟
-description: CV
+title: Peter Dyson
+logo: /assets/img/logo.png
+description: CV for Peter Dyson.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+# https://github.com/pages-themes/minimal/tree/master
+# https://jekyllrb.com/docs/variables/
