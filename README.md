@@ -40,13 +40,13 @@ Provided expert advice and led project teams of up to 30 people on projects such
 - **Key Skills: Capital modelling (Remetrica), catastrophe modelling, SQL, exposure management, Solvency II**
 
 ## 2012 – 2013 Hiscox, Risk Modeller (Contractor)
-● Building of a group insurance risk model, to meet internal economic capital requirements, as well as a regulatory view.
+- Building of a group insurance risk model, to meet internal economic capital requirements, as well as a regulatory view.
 
 ## 2009 – 2012 Aon Risk Solutions, Financial and Risk Modelling Consultant
-● Financial Modelling and model automation – Financial risk and capital model building, calibration and specialist modelling problems within Aon’s modelling software ReMetrica.
+- Financial Modelling and model automation – Financial risk and capital model building, calibration and specialist modelling problems within Aon’s modelling software ReMetrica.
 
 ## 2007 – 2009 MetaCause Solutions
-● Applied machine learning and data analytics techniques defect detection in complex manufacturing processes.
+- Applied machine learning and data analytics techniques defect detection in complex manufacturing processes.
 
 # EDUCATION
 - 2003–2006 Swansea University, PhD Numerical Modelling: “Up-Scaling Fluid Information from NanoScale.”
