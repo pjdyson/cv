@@ -17,13 +17,13 @@ Analytics, model calibration and research projects for a cybersecurity scale-up.
 - Specialist on risk model design, insight generation and reporting
 - Support clients risk, insurance and reinsurance projects
 - Management of multi-disciplinary projects across the organisation
-- Key skills: Research leadership, python, spark, SQL, Databricks, Excel/Sheets, Prefect, dashboarding, actuarial forecasting, machine learning, LLM for data enrichment, general research skills, technical
-communication and documentation.
+- **Key skills: Research leadership, python, spark, SQL, Databricks, Excel/Sheets, Prefect, dashboarding, actuarial forecasting, machine learning, LLM for data enrichment, general research skills, technical
+communication and documentation.**
 
 ## 2022/10 – 2023/02 Hiscox, Risk Modeller (Contractor)
 - Support for internal model validation exercise
 - Extended contract to build a custom reserve uncertainty model in R
-- Key Skills: Model validation, Tyche, R, reserve risk modelling.
+- **Key Skills: Model validation, Tyche, R, reserve risk modelling.**
 
 ## 2015 – 2021 KPMG: Senior Manager: Actuarial and Analytics
 Provided expert advice and led project teams of up to 30 people on projects such as:
@@ -31,13 +31,13 @@ Provided expert advice and led project teams of up to 30 people on projects such
 - led actuarial research into machine learning and analytics looking at automated outlier detection, granular reserving methods, volatility benchmarking models, policy level reserving techniques
 - Modelling of climate change and natural catastrophe modelling (Wind, flood, quake)
 - Specialist areas such as cyber risk , and impact of climate change
-- Key Skills: Team management, Python, R, SQL, excel, capital modelling (Remetrica, Tyche), model validation (PRA and Lloyd’s), automation, analytics, actuarial audit, reserving and pricing projects.
+- **Key Skills: Team management, Python, R, SQL, excel, capital modelling (Remetrica, Tyche), model validation (PRA and Lloyd’s), automation, analytics, actuarial audit, reserving and pricing projects.**
 
 ## 2013 – 2015 W. R. Berkley Insurance Europe, Head of Capital and Exposure Management
 - Building and managing the company’s first Solvency II compliant model and associated processes.
 - Management of exposure to natural catastrophe risks
 - Developed a specialist exposure management tool that provided a live view of the firm’s exposure to natural catastrophes from individual insurance policies. The system provided vital risk metrics to assist underwriting teams and provided high-quality data for risk management reporting.
-- Key Skills: Capital modelling (Remetrica), catastrophe modelling, SQL, exposure management, Solvency II
+- **Key Skills: Capital modelling (Remetrica), catastrophe modelling, SQL, exposure management, Solvency II**
 
 ## 2012 – 2013 Hiscox, Risk Modeller (Contractor)
 ● Building of a group insurance risk model, to meet internal economic capital requirements, as well as a regulatory view.
