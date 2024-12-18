@@ -1,3 +1,13 @@
+# PUBLICATIONS
+- [Quantifying Cybersecurity Control Impacts](https://www.kovrr.com/reports/quantifying-cybersecurity-control-impacts), Kovrr, Dec 15 2024
+- [A CISO's Guide to Materiality and Risk Determination](https://www.darkreading.com/cyber-risk/a-ciso-s-guide-to-materiality-and-risk-determination), Dark Reading, Mar 27, 2024
+- [Cyber Risk Quantified in a New Way](https://epodcastnetwork.com/cyber-risk-quantified-in-a-new-way/), Enterprise Podcast Network, Dec 23, 2023
+- [Boardroom Battles: The Rising Tide of Cybersecurity Challenges](https://www.ciowatercooler.co.uk/podcast/boardroom-battles-the-rising-tide-of-cybersecurity-challenges/), Tech Talks Daily, Dec 17, 2023
+- [2022 on target for the lowest year of reported breaches by large US corporations](https://www.kovrr.com/reports/2022-seems-to-be-on-target-for-the-lowest-year-of-reported-breaches-by-large-us-corporations), Kovrr.com,  Aug 1, 2022
+- [Developing Industry Loss Curves for Cyber Insurance Using the Crimzon™ Framework](https://www.kovrr.com/blog-post/developing-industry-loss-curves-for-cyber-insurance-using-the-crimzon-tm-framework), kovrr.com, Feb 2, 2022
+- [IFoA Capital Seminar: Challenging the Norm](https://www.actuaries.org.uk/system/files/field/document/Challenging%20the%20Norm%20DunkerleyDyson.pdf), Institute and Faculty of Actuaries Jan 17, 2018
+- [Fluid Properties at Nano/Meso Scale: A Numerical Treatment](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470697382), John Wiley and Sons. May 10, 2008
+
 # Experience 
 ## 2021 - Present, Kovrr: Head of Analytics
 Analytics, model calibration and research projects for a cybersecurity scale-up.
@@ -37,15 +47,6 @@ Provided expert advice and led project teams of up to 30 people on projects such
 
 ## 2007 – 2009 MetaCause Solutions
 ● Applied machine learning and data analytics techniques defect detection in complex manufacturing processes.
-
-# PUBLICATIONS
-- A CISO's Guide to Materiality and Risk DeterminationA CISO's Guide to Materiality and Risk Determination, Dark Reading, Mar 27, 2024
-- Cyber Risk Quantified in a New WayCyber Risk Quantified in a New Way, Enterprise Podcast Network, Dec 23, 2023
-- Boardroom Battles: The Rising Tide of Cybersecurity Challenges, Tech Talks Daily, Dec 17, 2023
-- 2022 on target for the lowest year of reported breaches by large US corporations2022 on target for the lowest year of reported breaches by large US corporations, Kovrr.com,  Aug 1, 2022
-- Developing Industry Loss Curves for Cyber Insurance Using the Crimzon™ FrameworkDeveloping Industry Loss Curves for Cyber Insurance Using the Crimzon™ Framework, kovrr.com, Feb 2, 2022
-- IFoA Capital Seminar: Challenging the NormIFoA Capital Seminar: Challenging the Norm, Institute and Faculty of Actuaries Jan 17, 2018
-- Fluid Properties at Nano/Meso Scale: A Numerical TreatmentFluid Properties at Nano/Meso Scale: A Numerical Treatment, John Wiley and Sons. May 10, 2008
 
 # EDUCATION
 - 2003–2006 Swansea University, PhD Numerical Modelling: “Up-Scaling Fluid Information from NanoScale.”
