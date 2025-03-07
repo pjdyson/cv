@@ -12,26 +12,25 @@
 
 # Experience 
 ### 2021 - Present, Kovrr: Head of Analytics
-Analytics, model calibration and research projects for a cybersecurity scale-up.
-- Led on client projects to prioritise security investments to minimise risk
-- Led innovative research projects on cyber risk, threat intelligence reports
+Head of the analytics team which is responsible for model calibration, model design and specialist risk projects.
+- Led innovative research projects on cyber risk, threat intelligence reports (inc. three patent submissions)
 - Responsible for designing, building and managing python based analytics stack (GCP/AZURE/Databricks)
-- Specialist on risk model design, insight generation and reporting
 - Support clients risk, insurance and reinsurance projects
 - Management of multi-disciplinary projects across the organisation
-- **Key skills: Research leadership, python, spark, SQL, Databricks, Excel/Sheets, Prefect, dashboarding, actuarial forecasting, machine learning, LLM for data enrichment, general research skills, technical
+- **Key skills: Research leadership, risk modelling, python, spark, SQL, Databricks, Excel/Sheets, Prefect, dashboarding, actuarial forecasting, machine learning, LLM for data enrichment, general research skills, technical
 communication and documentation.**
 
-### 2022/10 – 2023/02 Hiscox, Risk Modeller (Contractor)
+### 2022 – 2023 Hiscox, Risk Modeller (Contractor)
 - Support for internal model validation exercise
-- Extended contract to build a custom reserve uncertainty model in R
+- Extended contract scope to build a custom reserve uncertainty model in R
 - **Key Skills: Model validation, Tyche, R, reserve risk modelling.**
 
 ### 2015 – 2021 KPMG: Senior Manager: Actuarial and Analytics
-Provided expert advice and led project teams of up to 30 people on projects such as:
-- Actuarial digital transformation, modernising actuarial modelling, workflows and data processes including KPMG’s own reserving and audit function, achieving significant time and cost improvements for the business.
+Provided expert advice and led project teams on projects such as:
+- Capital and financial risk modelling to support Solvency II, Basel III, Swiss Solvency, APRA(AU), and enterprise risk
+- Risk modelling of cybersecurity, climate change and natural catastrophe modelling (Wind, flood, quake)
+- Digital transformation, modernising actuarial modelling, workflows and data processes including KPMG’s own reserving and audit function, achieving significant time and cost improvements for the business.
 - led actuarial research into machine learning and analytics looking at automated outlier detection, granular reserving methods, volatility benchmarking models, policy level reserving techniques
-- Modelling of climate change and natural catastrophe modelling (Wind, flood, quake)
 - Specialist areas such as cyber risk , and impact of climate change
 - **Key Skills: Team management, Python, R, SQL, excel, capital modelling (Remetrica, Tyche), model validation (PRA and Lloyd’s), automation, analytics, actuarial audit, reserving and pricing projects.**
 
