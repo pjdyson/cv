@@ -1,8 +1,11 @@
-title: Peter Dyson, Phd
-logo: /assets/profile.jpg
-description: Peter Dyson - Risk Modelling | Data Science | Cyber
+title: DeepSlate Labs
+logo: /assets/logo.jpg
+description: Risk Modelling | Data Science | Cyber Risk
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 # https://github.com/pages-themes/minimal/tree/master
 # https://jekyllrb.com/docs/variables/
+# https://github.com/pages-themes/slate
